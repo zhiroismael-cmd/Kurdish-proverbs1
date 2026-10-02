@@ -1,0 +1,5 @@
+app:
+  name: "KurdishProverbs"
+  package_name: "com.kurdish.proverbs"
+  version: "1.0.0"
+  main: "app.py"
